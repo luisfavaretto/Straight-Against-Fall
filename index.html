@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Straight Against Fall</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Cabeçalho -->
+  <header>
+    <div class="logo">
+      <img src="images/logo.png" alt="Logo da banda">
+    </div>
+    <nav>
+      <ul>
+        <li><a href="#sobre">Sobre</a></li>
+        <li><a href="#musica">Música</a></li>
+        <li><a href="#agenda">Agenda</a></li>
+        <li><a href="#galeria">Galeria</a></li>
+        <li><a href="#contato">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero -->
+  <section class="hero">
+    <h1>Straight Against Fall</h1>
+    <p>Metalcore/Hardcore diretamente do Norte de Portugal</p>
+  </section>
+
+  <!-- Sobre -->
+  <section id="sobre" class="section">
+    <h2>Sobre a Banda</h2>
+    <p>
+      Straight Against Fall é uma banda de metalcore/hardcore formada em Portugal. Nosso som mistura peso,
+      intensidade e emoção, sempre buscando energia máxima no palco.
+    </p>
+  </section>
+
+  <!-- Música -->
+  <section id="musica" class="section">
+    <h2>Música</h2>
+    <p>Escuta nossas faixas nas plataformas:</p>
+    <ul class="links">
+      <li><a href="#">Spotify</a></li>
+      <li><a href="#">YouTube</a></li>
+      <li><a href="#">Bandcamp</a></li>
+    </ul>
+  </section>
+
+  <!-- Agenda -->
+  <section id="agenda" class="section">
+    <h2>Agenda de Shows</h2>
+    <ul>
+      <li><strong>20/09/2025</strong> - Porto, Portugal</li>
+      <li><strong>05/10/2025</strong> - Braga, Portugal</li>
+      <li><strong>12/11/2025</strong> - Lisboa, Portugal</li>
+    </ul>
+  </section>
+
+  <!-- Galeria -->
+  <section id="galeria" class="section galeria">
+    <h2>Galeria</h2>
+    <div class="grid">
+      <img src="images/show1.jpg" alt="Show da banda">
+      <img src="images/show2.jpg" alt="Show da banda">
+      <img src="images/show3.jpg" alt="Show da banda">
+    </div>
+  </section>
+
+  <!-- Contato -->
+  <section id="contato" class="section">
+    <h2>Contato</h2>
+    <p>Email: <a href="mailto:straightagainstfall@banda.com">straightagainstfall@banda.com</a></p>
+    <p>Instagram: <a href="#">@straightagainstfall</a></p>
+  </section>
+
+  <!-- Rodapé -->
+  <footer>
+    <p>&copy; 2025 Straight Against Fall. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
